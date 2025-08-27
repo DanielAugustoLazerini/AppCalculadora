@@ -1,7 +1,5 @@
 public class Calculadora{
 
-<<<<<<< Updated upstream
-=======
     public static int soma(int a, int b) {
         return a + b;
     }
@@ -18,7 +16,5 @@ public class Calculadora{
         if (b == 0) throw new IllegalArgumentException("Divisão por zero não permitida!");
         return (double) a / b;
     }
->>>>>>> Stashed changes
 
-    
 }
